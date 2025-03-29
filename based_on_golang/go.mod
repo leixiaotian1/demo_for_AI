@@ -1,4 +1,4 @@
-module mcp-client
+module based_on_golang
 
 go 1.24.1
 
