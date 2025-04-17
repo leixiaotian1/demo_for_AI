@@ -2,7 +2,7 @@ module based_on_golang
 
 go 1.24.1
 
-require github.com/mark3labs/mcp-go v0.17.0
+require github.com/mark3labs/mcp-go v0.20.1
 
 require (
 	github.com/stretchr/testify v1.10.0 // indirect
